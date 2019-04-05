@@ -1,0 +1,14 @@
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe.config
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\bin\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\obj\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\Projekt_2019\SocialLidia\SocialLidia\obj\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe.config
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\bin\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\obj\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\backup_SocialLidia\SocialLidia\obj\Debug\SocialLidia.pdb
