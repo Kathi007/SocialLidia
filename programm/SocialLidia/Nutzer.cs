@@ -22,18 +22,51 @@ namespace SocialLidia
             GetInformation();
         }
 
-        private void SetInformation()
+        //Für Benutzername, Passwort, Vorname, Nachname
+        public void InfoAendern(char feld, string inhalt) //Welche Eigenschaft wird geändert, neue Infos
         {
-            
+            int feldIndex = 0;
+            char.ToLower(feld);
+
+            switch (feld)
+            {
+                case 'b':
+                    feldIndex = 0;
+                    return;
+
+                case 'p':
+                    feldIndex = 1;
+                    return;
+
+                case 'v':
+                    feldIndex = 2;
+                    return;
+
+                case 'n':
+                    feldIndex = 3;
+                    return;
+            }
+
+            FileFunktionen.Aendern(Benutzername, feldIndex, inhalt);
+            GetInformation();
         }
 
-        static public void AddBenutzer()
+        //Für Geschlecht:
+        private void InfoAendern(string inhalt) //Welche Eigenschaft wird geändert, neue Infos
         {
-
+            FileFunktionen.Aendern(Benutzername, 3, inhalt);
         }
 
-        private void GetInformation() //Setzt Felder
+        //Für Alter:
+        private void InfoAendern(int inhalt) //Welche Eigenschaft wird geändert, neue Infos
         {
+            string stringInhalt = Convert.ToString(inhalt);
+            FileFunktionen.Aendern(Benutzername, 4, stringInhalt);
+        }
+
+        private void GetInformation()
+        {
+            Console.WriteLine(Benutzername);
             string dateipfad = "Daten.txt";
             using (StreamReader reader = new StreamReader(dateipfad))
             {
@@ -48,43 +81,17 @@ namespace SocialLidia
                     {
                         string[] nutzerdaten = zeile.Split(';');
                         if (nutzerdaten[0] == Benutzername) //Bei Zeile des momentanen Nutzers:
-                        {
+                        
                             //Information aus dem File in Feldern speichern:
                             Passwort = nutzerdaten[1];
                             Geschlecht = Convert.ToChar(nutzerdaten[2]);
                             Alter = Convert.ToInt16(nutzerdaten[3]);
                             Vorname = nutzerdaten[4];
                             Nachname = nutzerdaten[5];
-                        }
+                            break;
+                     }
                     }
                 }
             }
         }
-
-        static public bool SucheUser(string suchName) //return: true = User existiert
-        {
-            string dateipfad = "Daten.txt";
-            using (StreamReader reader = new StreamReader(dateipfad))
-            {
-                while (true)
-                {
-                    string line = reader.ReadLine();
-                    if (line == null) //Ende der Datei
-                    {
-                        return false; 
-                    }
-                    else //In jeder Zeile:
-                    {
-                        string zeile = reader.ReadLine();
-                        string[] nutzerdaten = zeile.Split(';');
-                        if (nutzerdaten[0] == suchName) //Zeile für gesuchten benutzernamen gefunden:
-                        {
-                            return true;
-                        }
-                    }
-                }
-            }
-        }
-
     }
-}
