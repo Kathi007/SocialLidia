@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileFunktionen.cs" />
+    <Compile Include="Datei.cs" />
     <Compile Include="Nachricht.cs" />
     <Compile Include="Posting.cs" />
     <Compile Include="Program.cs" />

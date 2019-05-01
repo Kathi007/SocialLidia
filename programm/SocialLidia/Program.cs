@@ -16,12 +16,15 @@ namespace SocialLidia
     {
         static void Main(string[] args)
         {
-            Nutzer meinAccount = new Nutzer("kathi07");
-            Console.WriteLine("Alter:"+meinAccount.Alter.ToString());
-            Console.WriteLine("Name: " + meinAccount.Vorname + " " + meinAccount.Nachname);
+            //Testfall:
+            Datei SocialLidiaUsers = new Datei("Daten.txt");
+            Nutzer meinAccount = new Nutzer("kathi07", "passwort123", SocialLidiaUsers);
+            meinAccount.Vorname = "Kathi";
+            meinAccount.Nachname = "Schrenk";
+            meinAccount.Alter = 17;
+            meinAccount.Geschlecht = 'w';
 
-            meinAccount.InfoAendern('v', "kathi08");
-            Console.WriteLine(meinAccount.Vorname);
+            Console.WriteLine(meinAccount.AlleInfosLesen());
 
             Console.ReadKey();
         }
