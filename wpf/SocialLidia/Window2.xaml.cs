@@ -23,5 +23,11 @@ namespace SocialLidia
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string text = textbox1.Text;
+            list1.Items.Add(text); 
+        }
     }
 }
