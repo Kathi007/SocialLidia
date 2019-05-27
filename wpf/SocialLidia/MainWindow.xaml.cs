@@ -38,5 +38,19 @@ namespace SocialLidia
             Window2.Show();
             Close();
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Window2 Window2 = new Window2();
+            Window2.Show();
+            Close();
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Window1 Window1 = new Window1();
+            Window1.Show();
+            Close();
+        }
     }
 }

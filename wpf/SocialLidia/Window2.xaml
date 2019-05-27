@@ -7,11 +7,21 @@
         mc:Ignorable="d"
         Title="Window2" Height="350" Width="525">
     <Grid>
-        <ListBox HorizontalAlignment="Left" Height="302" Margin="365,10,0,0" VerticalAlignment="Top" Width="145"/>
-        <TextBox HorizontalAlignment="Left" Height="44" Margin="123,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="223"/>
-        <Button Content="Post veröffentlichen" HorizontalAlignment="Left" Margin="231,78,0,0" VerticalAlignment="Top" Width="115"/>
-        <Button Content="Post privat stellen" HorizontalAlignment="Left" Margin="123,78,0,0" VerticalAlignment="Top" Width="103"/>
-        <ListBox HorizontalAlignment="Left" Height="195" Margin="123,117,0,0" VerticalAlignment="Top" Width="223"/>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="username" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Margin="30" VerticalAlignment="Center" FontSize="16"/>
+        <TextBox Name="textbox1" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0" Height="44" Margin="20" TextWrapping="Wrap" Text="" VerticalAlignment="Bottom" Width="200"/>
+        <Button Content="Post veröffentlichen" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" Margin="15" VerticalAlignment="Center" Click="Button_Click" />
+        <Button Content="Post privat stellen" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" Margin="15" VerticalAlignment="Center" />
+        <ListBox Name="list1" Grid.Row="0" Grid.Column="1" Grid.RowSpan="3" HorizontalAlignment="Center"  Margin="10" VerticalAlignment="Center" Width="145"/>
+        
 
     </Grid>
 </Window>
