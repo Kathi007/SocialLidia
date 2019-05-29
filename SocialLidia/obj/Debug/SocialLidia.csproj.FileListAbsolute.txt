@@ -1,0 +1,114 @@
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe.config
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\bin\Debug\SocialLidia.pdb
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\MainWindow.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\App.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.lref
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\MainWindow.baml
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.g.resources
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.Properties.Resources.resources
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.GenerateResource.Cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.exe
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\SocialLidia.pdb
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\Window1.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\Window1.baml
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\Window2.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidia\SocialLidia\obj\Debug\Window2.baml
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\bin\Debug\SocialLidia.exe.config
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\bin\Debug\SocialLidia.exe
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\bin\Debug\SocialLidia.pdb
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\MainWindow.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\Window1.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\Window2.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\App.g.cs
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.lref
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\MainWindow.baml
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\Window1.baml
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\Window2.baml
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.g.resources
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.Properties.Resources.resources
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.csproj.GenerateResource.Cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.exe
+C:\Users\Lidia Rudenko\Desktop\SocialLidiaW\SocialLidia\obj\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\bin\Debug\SocialLidia.exe.config
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\bin\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\bin\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\MainWindow.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\Window1.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\Window2.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\App.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.lref
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\MainWindow.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\Window1.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\Window2.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.g.resources
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.Properties.Resources.resources
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.csproj.GenerateResource.Cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\wpf\SocialLidia\obj\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\bin\Debug\SocialLidia.exe.config
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\bin\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\bin\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\MainWindow.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\Window1.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\Window2.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\App.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.lref
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\MainWindow.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\Window1.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\Window2.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.g.resources
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.Properties.Resources.resources
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.csproj.GenerateResource.Cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia - zusammengefuehrt\SocialLidia\obj\Debug\SocialLidia.pdb
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\MainWindow.g.cs
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\Window1.g.cs
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\Window2.g.cs
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\App.g.cs
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.cache
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.lref
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.exe
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.pdb
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe.config
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\bin\Debug\SocialLidia.pdb
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\MainWindow.baml
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\Window1.baml
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\Window2.baml
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.g.resources
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.Properties.Resources.resources
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.GenerateResource.Cache
+C:\Users\Lidia Rudenko\Desktop\sew\SocialLidia (2)\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csprojResolveAssemblyReference.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\MainWindow.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\Window1.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\Window2.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\App.g.cs
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia_MarkupCompile.lref
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe.config
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\bin\Debug\SocialLidia.exe
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\bin\Debug\SocialLidia.pdb
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\MainWindow.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\Window1.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\Window2.baml
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.g.resources
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.Properties.Resources.resources
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.GenerateResource.Cache
+D:\Daten\Kathi\Desktop\Schule\3BHIT\SEW\SocialLidia\SocialLidia\obj\Debug\SocialLidia.csproj.CoreCompileInputs.cache

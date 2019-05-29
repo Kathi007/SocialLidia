@@ -1,0 +1,40 @@
+﻿<Window x:Class="SocialLidia.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocialLidia"
+        mc:Ignorable="d"
+        Title="Window1" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized" Height="600" Width="1300" >
+    <Grid x:Name="Vorname_Textbox" Margin="10,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Label Content="Registrieren" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="1" VerticalAlignment="Center" FontSize="60" />
+        <Label Content="Vorname: " Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" FontSize="20"/>
+        <TextBox x:Name="Vorname_Textbox1" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="30" Margin="10" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="450" FontSize="20"/>
+        <Label Content="Nachname:" Grid.Column="1" HorizontalAlignment="Left" Margin="5" Grid.Row="1" VerticalAlignment="Center" FontSize="20"/>
+        <TextBox x:Name="Nachname_Textbox" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Height="30" Margin="10" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="450" FontSize="20"/>
+        <Label Content="Alter: " HorizontalAlignment="Left" Margin="5" Grid.Row="2" VerticalAlignment="Center" FontSize="16"/>
+        <TextBox x:Name="Alter_Textbox" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" Height="30" Margin="5" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="450" FontSize="20"/>
+        <Label Content="Username:" Grid.Column="1" HorizontalAlignment="Left" Margin="5" Grid.Row="2" VerticalAlignment="Center" FontSize="20"/>
+        <TextBox x:Name="Username_Textbox" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Height="30" Margin="10" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="450" FontSize="20"/>
+        <RadioButton Grid.Row="3" Grid.Column="0" Content="weiblich" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Center" Width="150" FontSize="20"/>
+        <RadioButton Grid.Row="3" Grid.Column="0" Content="männlich" HorizontalAlignment="Right" Margin="10" VerticalAlignment="Center" Width="150" FontSize="20"/>
+        <Label Content="Passwort: " Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Left" Margin="10" Grid.Row="3" VerticalAlignment="Center" FontSize="20"/>
+        <TextBox x:Name="Passwort_Textbox" Grid.Row="3" Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Center" Height="30" Margin="10" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="450" FontSize="20"/>
+        <Button Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" Content="registrieren" HorizontalAlignment="Center" Margin="10" Width="200" VerticalAlignment="Top" Height="40"  Click="Button_Click" FontSize="20"/>
+        <Label x:Name="Fehler_Label" Content="&#xD;&#xA;" HorizontalAlignment="Left" Margin="79,26,0,0" Grid.Row="4" VerticalAlignment="Top" Height="76" Width="397"/>
+
+
+    </Grid>
+</Window>
