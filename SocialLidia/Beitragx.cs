@@ -11,8 +11,8 @@ namespace SocialLidia
     class Beitragx
     {
         public Datei BeitragsDatei;
-        static List<int> benutzteIDs = new List<int>();
-        private string ID;
+        protected static List<int> benutzteIDs = new List<int>();
+        protected string ID;
 
         public string Ersteller
         {
@@ -87,7 +87,7 @@ namespace SocialLidia
 
             // Felder setzen:
             BeitragsDatei = newDatei;
-            string neueZeile = $"{newID};{erstellerName};{newText};LEER;0;LEER;LEER;";
+            string neueZeile = $"{newID};{erstellerName};{newText};LEER;LEER;";
             BeitragsDatei.Hinzufuegen(neueZeile);
         }
 
@@ -117,7 +117,7 @@ namespace SocialLidia
         }
 
         //Bestimmtes Feld des Beitrags ändern:
-        private void InfoAendern(char feld, string neuInhalt) //Welche Eigenschaft wird geändert, neue Infos
+        internal void InfoAendern(char feld, string neuInhalt) //Welche Eigenschaft wird geändert, neue Infos
         {
             char.ToLower(feld);
 

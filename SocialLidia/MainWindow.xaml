@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:SocialLidia"
         mc:Ignorable="d"
         Title="Window1" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized" Height="600" Width="1300" >
-    <Grid>
+    <Grid Background="#FFDDDDDD">
         <Grid.RowDefinitions>
             <RowDefinition />
             <RowDefinition/>
@@ -18,15 +18,15 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Label Content="Login" Grid.Row="0" Grid.Column="0" Margin="20" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontSize="40"/>
+        <Label Content="Login" Grid.Row="0" Grid.Column="0" Margin="20" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontSize="40" FontFamily="Palatino Linotype"/>
 
-        <Label Content="Username:" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20"/>
-        <TextBox x:Name="username_textbox" Grid.Row="1" Grid.Column="1" Margin="20" Width="170" Height="30" HorizontalAlignment="Left"/>
-        <Label Content="Passwort:" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20"/>
-        <TextBox x:Name="passwort_textbox" Grid.Row="2" Grid.Column="1" Margin="20" Width="170" Height="30" HorizontalAlignment="Left" />
-        <Button Content="registrieren" Grid.Row="3" Grid.Column="0" Margin="20" Height="40" Width="150" HorizontalAlignment="Right" Grid.ColumnSpan="2" FontSize="20" Click="Registrieren"/>
-        <Button Content="anmelden" Grid.Row="3" Grid.Column="0" Margin="20" Height="40" Width="150" Grid.ColumnSpan="2" HorizontalAlignment="Left" FontSize="20" Click="Anmelden"/>
-        <Label x:Name="FehlerLabel" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Content="Fehler: Username oder Passwort nicht gefunden!" HorizontalAlignment="Left" Margin="127,19,0,20.5"  Background="White" Opacity="0"/>
+        <Label Content="Username:" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" FontFamily="Palatino Linotype"/>
+        <TextBox x:Name="username_textbox" Grid.Row="1" Grid.Column="1" Margin="20" Width="170" Height="30" HorizontalAlignment="Left" FontFamily="Palatino Linotype"/>
+        <Label Content="Passwort:" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" FontFamily="Palatino Linotype"/>
+        <TextBox x:Name="passwort_textbox" Grid.Row="2" Grid.Column="1" Margin="20" Width="170" Height="30" HorizontalAlignment="Left" FontFamily="Palatino Linotype" />
+        <Button Content="registrieren" Grid.Row="3" Grid.Column="0" Margin="20" Height="40" Width="150" HorizontalAlignment="Right" Grid.ColumnSpan="2" FontSize="20" Click="Registrieren" FontFamily="Palatino Linotype" Background="#FF173D55" Foreground="#FFEEEEEE"/>
+        <Button Content="anmelden" Grid.Row="3" Grid.Column="0" Margin="20" Height="40" Width="150" Grid.ColumnSpan="2" HorizontalAlignment="Left" FontSize="20" Click="Anmelden" FontFamily="Palatino Linotype" Background="#FF173D55" Foreground="#FFEEEEEE"/>
+        <Label x:Name="FehlerLabel" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Content="Fehler: Username oder Passwort nicht gefunden!" HorizontalAlignment="Left" Margin="127,19,0,20.5"  Background="White" Opacity="0" FontFamily="Palatino Linotype" Foreground="#FFAB0F0F"/>
 
     </Grid>
 </Window>

@@ -84,13 +84,36 @@ namespace SocialLidia
             }
         }
 
-        //Konstruktor
+        public string[] Freunde
+        {
+            get
+            {
+                string freundeString = InfoLesen('f');
+                string[] freundeArray = freundeString.Split(',');
+                return freundeArray;
+            }
+            set
+            {
+                string[] freundeArray = value;
+                string freundeString = Convert.ToString(freundeArray);
+                InfoAendern('f', freundeString);
+            }
+        }
+
+        //Konstruktor fürs Registrieren
         public Benutzer(Datei newDatei, string newBenutzername, string newPasswort)
         {
             Benutzerdatei = newDatei;
             Benutzername = newBenutzername;
-            string neueZeile = $"{Benutzername};{newPasswort};LEER;0;LEER;LEER;";
+            string neueZeile = $"{Benutzername};{newPasswort};LEER;0;LEER;LEER;LEER,LEER;";
             Benutzerdatei.Hinzufuegen(neueZeile);
+        }
+
+        //Konstruktor fürs Anmelden : Kein neuer Benutzer wird ins File geschrieben
+        public Benutzer(Datei alteDatei, string alterBenutzername)
+        {
+            Benutzerdatei = alteDatei;
+            Benutzername = alterBenutzername;
         }
 
         //Prüfen, ob User existiert
@@ -141,6 +164,10 @@ namespace SocialLidia
                 case 'n':
                     Benutzerdatei.Aendern(Benutzername, 0, inhalt, 5);
                     return;
+
+                case 'f':
+                    Benutzerdatei.Aendern(Benutzername, 0, inhalt, 6);
+                    return;
             }
         }
 
@@ -165,8 +192,11 @@ namespace SocialLidia
 
                 case 'n':
                     return Benutzerdatei.Lesen(0, Benutzername, 5);
+
+                case 'f':
+                    return Benutzerdatei.Lesen(0, Benutzername, 6);
             }
-            return "Fehler: Feld nicht vorhanden. Felder: p,g,a,v,n";
+            return "Fehler: Feld nicht vorhanden. Felder: p,g,a,v,n,f";
         }
     }
 }

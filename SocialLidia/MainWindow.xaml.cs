@@ -38,23 +38,26 @@ namespace SocialLidia
         {
             string inputUserName = username_textbox.Text;
             string inputPasswort = passwort_textbox.Text;
-            if (Benutzer.BenutzerExistiert(inputUserName, NutzerDatei))
+            if (Benutzer.BenutzerExistiert(inputUserName, NutzerDatei)) //Benutzernamen prüfen
             {
                 string richtigesPasswort = NutzerDatei.Lesen(0, inputUserName, 1);
-                if ( richtigesPasswort == inputPasswort)
+                if ( richtigesPasswort == inputPasswort) //Passwort prüfen
                 {
-                    Benutzer aktuellerBenutzer = new Benutzer(NutzerDatei, inputUserName, inputPasswort);
+                    //Login: Neuer Benutzer für diese Session erstellen
+                    Benutzer aktuellerBenutzer = new Benutzer(NutzerDatei, inputUserName);
                     Window2 Window2 = new Window2(aktuellerBenutzer);
                     Window2.Show();
                     Close();
                 }
+
+                //Fehlermeldungen anzeigen:
                 else
                 {
                     FehlerLabel.Content = "Falsches Passwort";
                     FehlerLabel.Opacity = 100;
                 }
             }
-            else //Fehlermeldung anzeigen
+            else
             {
                 FehlerLabel.Content = "Benutzername nicht gefunden";
                 FehlerLabel.Opacity = 100;

@@ -6,22 +6,27 @@
         xmlns:local="clr-namespace:SocialLidia"
         mc:Ignorable="d"
         Title="Window2" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized" Height="600" Width="1300">
-    <Grid>
+    <Grid Background="#FFDDDDDD">
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Label x:Name="Username_Label" Content="username" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Margin="30" VerticalAlignment="Center" FontSize="60"/>
-        <TextBox x:Name="NeuPost_Textbox" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0" Height="44" Margin="20" TextWrapping="Wrap" Text="" VerticalAlignment="Bottom" Width="200"/>
-        
-        <Button x:Name="Posten_Btn" Content="Post veröffentlichen" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" Height="40" Margin="15" FontSize="20" VerticalAlignment="Center" Click="Posten_Btn_Click" />
-        <Button x:Name="Privat_Btn" Content="Post privat stellen" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" Margin="15" Height="40" FontSize="20" VerticalAlignment="Center" Click="Privat_Btn_Click" />
-        <ListBox Name="Beitraege_Listbox" Grid.Row="0" Grid.Column="1" Grid.RowSpan="3" HorizontalAlignment="Center"  Margin="10" VerticalAlignment="Center" Width="145"/>
+        <Label x:Name="Username_Label" Content="username" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Margin="190,46,190,21" VerticalAlignment="Center" FontSize="60" Height="91" Width="270" FontFamily="Palatino Linotype"/>
+        <TextBox x:Name="NeuPost_Textbox" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0" Height="44" Margin="225,20,225,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" FontFamily="Palatino Linotype"/>
+        <Button x:Name="Posten_Btn" Content="Post veröffentlichen" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Left" Height="40" Margin="15,0,0,15" FontSize="20" VerticalAlignment="Bottom" Click="Posten_Btn_Click" Width="180" FontFamily="Palatino Linotype" Background="#FF173D55" Foreground="#FFEEEEEE"/>
+        <Button x:Name="Privat_Btn" Content="Post privat stellen" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Right" Margin="0,0,15,15" Height="40" FontSize="20" VerticalAlignment="Bottom" Click="Privat_Btn_Click" Width="180" FontFamily="Palatino Linotype" Background="#FF173D55" Foreground="#FFEEEEEE"/>
+        <ListBox Name="Beitraege_Listbox" Grid.Row="3" Grid.Column="0" Grid.RowSpan="2" HorizontalAlignment="Center"  Margin="225,58" VerticalAlignment="Center" Width="170" FontFamily="Palatino Linotype"/>
+        <Label x:Name="Friends_Label" Content="Meine Freunde" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Margin="121,46,121,21" VerticalAlignment="Center" FontSize="60" Height="91" Width="408" FontFamily="Palatino Linotype"/>
+        <ListBox x:Name="Freunde_ListBox" Grid.Row="2" Grid.Column="1" Grid.RowSpan="3" HorizontalAlignment="Center"  Margin="225,58" VerticalAlignment="Center" Width="170" FontFamily="Palatino Linotype"/>
+        <Label Content="Neuer Post:" HorizontalAlignment="Left" Margin="25,20,0,0" Grid.Row="1" VerticalAlignment="Top" Width="200" FontSize="20" FontFamily="Palatino Linotype"/>
+        <Button x:Name="FreundAnzeigen_Btn" Content="Freund anzeigen" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,230,15" Height="40" FontSize="20" VerticalAlignment="Bottom" Click="FreundAnzeigen_Btn_Click" Width="180" FontFamily="Palatino Linotype" Background="#FF173D55" Foreground="#FFEEEEEE"/>
 
 
     </Grid>
